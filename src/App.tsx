@@ -1,7 +1,7 @@
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
- * Last Updated: 2026-03-08 14:24
+ * Last Updated: 2026-03-08 14:34
  */
 
 import React, { useState, useEffect, useRef } from 'react';
@@ -44,7 +44,7 @@ const THEMES = [
 
 // If you have a separate URL for your resume (e.g. from Vercel Blob or GitHub), 
 // you can replace the value below with your direct URL string.
-const RESUME_URL = `${import.meta.env.BASE_URL}assets/Vishal_Resume.pdf`;
+const RESUME_URL = "/assets/Vishal_Resume.pdf";
 
 // --- Components ---
 
