@@ -4,6 +4,7 @@ A high-end, futuristic portfolio showcasing expertise in Generative AI, AI Conte
 
 ## 📁 Assets
 The professional resume is located in `/public/assets/Vishal_Resume.pdf`.
+(Last Sync Check: 2026-03-08 14:18)
 
 ## 🚀 Features
 
