@@ -1,7 +1,7 @@
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
- * Last Updated: 2026-03-08 14:15
+ * Last Updated: 2026-03-08 14:21
  */
 
 import React, { useState, useEffect, useRef } from 'react';
@@ -44,7 +44,7 @@ const THEMES = [
 
 // If you have a separate URL for your resume (e.g. from Vercel Blob or GitHub), 
 // you can replace the value below with your direct URL string.
-const RESUME_URL = `${import.meta.env.BASE_URL}assets/Vishal_Resume.pdf`;
+const RESUME_URL = `${import.meta.env.BASE_URL}assets/resume.pdf`;
 
 // --- Components ---
 
@@ -269,7 +269,7 @@ const Navbar = ({ theme, setTheme }: { theme: string, setTheme: (t: string) => v
           
           <a 
             href={RESUME_URL} 
-            download="Vishal_Resume.pdf"
+            download="resume.pdf"
             className="px-5 py-2 glass rounded-full text-xs font-bold uppercase tracking-widest hover:bg-white/10 transition-all cursor-pointer flex items-center gap-2"
           >
             <Download size={14} />
