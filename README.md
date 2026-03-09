@@ -2,6 +2,10 @@
 
 A high-end, futuristic portfolio showcasing expertise in Generative AI, AI Content Creation, and Technical Validation.
 
+## 📁 Assets
+The professional resume is located in `/public/assets/Vishal_Resume.pdf`.
+(Last Sync Check: 2026-03-08 14:24 - Reverted to original filename)
+
 ## 🚀 Features
 
 - **Futuristic UI**: Cyberpunk-inspired design with fluid animations and neural backgrounds.
